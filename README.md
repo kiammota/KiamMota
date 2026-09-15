@@ -1,63 +1,64 @@
-<h1 align="center">Kiam Mota</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Backend Developer</strong> · Open Source
-</p>
+# Kiam Mota
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Serrinha%20%E2%80%94%20Bahia-white?style=flat&logo=googlemaps&logoColor=000000&labelColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Born-26%20Nov%202008-white?style=flat&labelColor=white&color=000000" alt="Born">
-</p>
+**Backend & Systems Developer** · Open Source
 
-<p align="center">
-  <a href="mailto:somentekiam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-white?style=flat&logo=gmail&logoColor=EA4335&labelColor=white" alt="Email">
-  </a>
-  <a href="[https://linkedin.com/in/KiamMota](https://www.linkedin.com/in/kiam-mota-3a1638356/)">
-    <img src="https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=white" alt="LinkedIn">
-  </a>
-</p>
+Serrinha, Bahia · Born 2008
+
+[Email](mailto:somentekiam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kiam-mota-3a1638356/)
+
+</div>
 
 <br>
 
+I build backend systems, low-level tools, and open-source software that other developers can actually use.
+
+Currently focused on systems programming, developer tooling, and clean architecture.
+
+---
+
+### Featured Work
+
+**[haze](https://github.com/KiamMota/haze)**  
+Open-source DAW core. Separates audio engine, project state and UI through MessagePack-RPC. Clients can be anything — desktop editor, scripts, or headless tools.
+
+**[lpm](https://github.com/KiamMota/lpm)**  
+CLI plugin manager for lazy.nvim. Written in Go.
+
+**[gomsgpack-rpc](https://github.com/KiamMota/gomsgpack-rpc)**  
+Complete MessagePack-RPC implementation for Go.
+
+**[rr](https://github.com/KiamMota/rr)**  
+Cross-platform recursive find-and-replace CLI with backups, exceptions and verbose logging.
+
+**[libmkdir](https://github.com/KiamMota/libmkdir)** · **[klib](https://github.com/KiamMota/klib)**  
+Small, focused C libraries (header-only directory utilities and reusable modules).
+
+---
+
+### Stack
+
+`C` · `C++` · `Go` · `C#` · `Linux` · `PostgreSQL` · `CMake` · `Git`
+
+I use **C** for low-level and systems work, **Go** for tools and services, and **C++** when more control is needed.
+
+---
+
+### About
+
+Backend developer interested in systems, infrastructure and software that lasts.
+
+I care about:
+- Clear boundaries and protocols between components
+- Tools that reduce friction for other developers
+- Code that is simple, readable and extensible
+
+Open to interesting backend/systems opportunities and open-source collaboration.
+
+---
+
 <p align="center">
-  I build backend systems, open-source software, and developer tools.
-</p>
-
-## Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,c,cpp,cs,linux,postgres,git,cmake&theme=light" alt="Stack">
-</p>
-
-<p align="center">
-  <code>C</code> · <code>C++</code> · <code>Go</code> · <code>C#</code> ·
-  <code>Linux</code> · <code>PostgreSQL</code> · <code>CMake</code> · <code>Git</code>
-</p>
-
-## About
-
-I'm a backend developer interested in systems, infrastructure, and software architecture.
-
-I use C for operating-system and low-level work, C++ when needed, Go for scripting and tooling, and C# for legacy projects.
-
-I'm particularly interested in open source and building software that other developers can use and extend.
-
-## GitHub
-
-<p align="center">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=KiamMota&show_icons=true&theme=light&hide_border=true&rank_icon=github"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs?username=KiamMota&layout=compact&langs_count=8&theme=light&hide_border=true"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <sub>Backend · Systems · Open Source</sub>
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=KiamMota&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=KiamMota&layout=compact&langs_count=6&theme=dark&hide_border=true" />
 </p>
