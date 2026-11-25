@@ -1,64 +1,27 @@
-<div align="center">
-
 # Kiam Mota
 
-**Backend & Systems Developer** · Open Source
+**Backend & Systems Developer**
 
-Serrinha, Bahia · Born 2008
+Brazil · [Email](mailto:somentekiam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kiam-mota-3a1638356/)
 
-[Email](mailto:somentekiam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/kiam-mota-3a1638356/)
+Backend systems, systems programming, and developer tools. Interested in well-defined interfaces, reliable protocols, and maintainable software.
 
-</div>
+## Projects
 
-<br>
+- **[haze](https://github.com/KiamMota/haze)** — Open-source DAW core that separates the audio engine, project state, and UI through MessagePack-RPC. Supports desktop, scriptable, and headless clients.
+- **[lpm](https://github.com/KiamMota/lpm)** — Command-line plugin manager for lazy.nvim, written in Go.
+- **[gomsgpack-rpc](https://github.com/KiamMota/gomsgpack-rpc)** — MessagePack-RPC implementation for Go.
+- **[rr](https://github.com/KiamMota/rr)** — Cross-platform recursive find-and-replace CLI with backups, exceptions, and verbose logging.
+- **[libmkdir](https://github.com/KiamMota/libmkdir)** · **[klib](https://github.com/KiamMota/klib)** — Small C libraries for directory utilities and reusable modules.
 
-I build backend systems, low-level tools, and open-source software that other developers can actually use.
+## Technologies
 
-Currently focused on systems programming, developer tooling, and clean architecture.
+C · C++ · Go · C# · Linux · PostgreSQL · CMake · Git
 
----
+I use C for low-level and systems work, Go for tools and services, and C++ when additional control is required.
 
-### Featured Work
+## Interests
 
-**[haze](https://github.com/KiamMota/haze)**  
-Open-source DAW core. Separates audio engine, project state and UI through MessagePack-RPC. Clients can be anything — desktop editor, scripts, or headless tools.
+Backend architecture, systems programming, infrastructure, and open-source software.
 
-**[lpm](https://github.com/KiamMota/lpm)**  
-CLI plugin manager for lazy.nvim. Written in Go.
-
-**[gomsgpack-rpc](https://github.com/KiamMota/gomsgpack-rpc)**  
-Complete MessagePack-RPC implementation for Go.
-
-**[rr](https://github.com/KiamMota/rr)**  
-Cross-platform recursive find-and-replace CLI with backups, exceptions and verbose logging.
-
-**[libmkdir](https://github.com/KiamMota/libmkdir)** · **[klib](https://github.com/KiamMota/klib)**  
-Small, focused C libraries (header-only directory utilities and reusable modules).
-
----
-
-### Stack
-
-`C` · `C++` · `Go` · `C#` · `Linux` · `PostgreSQL` · `CMake` · `Git`
-
-I use **C** for low-level and systems work, **Go** for tools and services, and **C++** when more control is needed.
-
----
-
-### About
-
-Backend developer interested in systems, infrastructure and software that lasts.
-
-I care about:
-- Clear boundaries and protocols between components
-- Tools that reduce friction for other developers
-- Code that is simple, readable and extensible
-
-Open to interesting backend/systems opportunities and open-source collaboration.
-
----
-
-<p align="center">
-  <img height="160" src="https://github-stats-extended.vercel.app/api?username=KiamMota&show_icons=true&theme=dark&hide_border=true&rank_icon=github" />
-  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=KiamMota&layout=compact&langs_count=6&theme=dark&hide_border=true" />
-</p>
+I value clear component boundaries, simple interfaces, and code that is readable and maintainable.
